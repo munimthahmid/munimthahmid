@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Munim Thahmid</h1>
 <h3 align="center">A 3rd year CSE undergrad student at BUET</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=munimthahmid&label=Profile%20views&color=0e75b6&style=flat" alt="munimthahmid" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=munimthahmid&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="munimthahmid" /> </p>
 
 - 📫 How to reach me **munimthahmid@gmail.com**
 
