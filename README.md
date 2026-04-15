@@ -42,13 +42,6 @@
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-### 📊 GitHub at a glance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=munimthahmid&show_icons=true&hide_border=true&title_color=1a4d8f&icon_color=1a4d8f&text_color=333&bg_color=fafaf8" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munimthahmid&layout=compact&hide_border=true&title_color=1a4d8f&text_color=333&bg_color=fafaf8" height="165" />
-</p>
-
 ---
 
 <p align="center"><i>Currently open to interesting problems in LLM infra and reliable software systems.</i></p>
