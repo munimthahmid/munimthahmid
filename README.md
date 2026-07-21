@@ -14,7 +14,7 @@
 
 I am a recent Computer Science and Engineering graduate from the **Bangladesh University of Engineering and Technology (BUET)** and currently a research intern at the **University of Illinois Urbana-Champaign**.
 
-My primary current work examines how AI systems can construct and complete machine-checkable **TLA+ proofs**, and how such systems should be evaluated rigorously. I also contribute to [SREGym](https://github.com/SREGym/SREGym), which evaluates AI agents on realistic Site Reliability Engineering problems in live system environments. More broadly, I am interested in formal verification, machine-assisted reasoning, dependable distributed systems, and software reliability.
+My primary current work with [TLAPS-Bench](https://github.com/specula-org/tlaps-bench) examines how AI systems can construct and complete machine-checkable **TLA+ proofs**, and how such systems should be evaluated rigorously. I also contribute to [SREGym](https://github.com/SREGym/SREGym), which evaluates AI agents on realistic Site Reliability Engineering problems in live system environments. More broadly, I am interested in formal verification, machine-assisted reasoning, dependable distributed systems, and software reliability.
 
 ## Research
 
