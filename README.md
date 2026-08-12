@@ -1,7 +1,7 @@
 <h1 align="center">Munim Thahmid</h1>
 
 <p align="center">
-  Trustworthy Software · Formal Verification · Neuro-Symbolic AI
+  Trustworthy Software · Formal Methods · LLM Verification
 </p>
 
 <p align="center">
@@ -13,11 +13,11 @@
 
 I am a research intern at the **University of Illinois Urbana-Champaign** and a recent Computer Science and Engineering graduate from **BUET** with a CGPA of **3.46/4.00**.
 
-My research focuses on making software systems more trustworthy as AI-generated code becomes increasingly common. I am especially interested in neuro-symbolic systems where LLMs generate or refine code, formal specifications, and proofs, while theorem provers and model checkers provide machine-checkable feedback. I want to understand how this feedback can guide, evaluate, and improve the reasoning and verification capabilities of LLMs so that correctness and safety are built in from the beginning.
+My research focuses on making software systems more trustworthy as AI-generated code becomes increasingly common. I want to use formal specifications, theorem provers, and model checkers both to verify AI-generated software and to give LLMs machine-checkable feedback while they reason. My long-term goal is to improve their ability to produce correct specifications, proofs, and safe, verifiable code from the beginning.
 
 ## Selected research
 
-- **[TLAPS-Bench](https://specula-org.github.io/tlaps-bench-website/):** I co-lead a 956-task benchmark across 71 TLA+ specifications for evaluating frontier LLMs on mechanically verified proof completion and generation. I work across evaluator contracts, canonical replay, anti-cheating checks, TLAPM verification, reproducible runners, and behavioral analysis. On a matched 293-task slice, GPT-5.6 Sol reached 99.0% task pass with iterative verifier feedback versus 18.8% single-turn. [[code](https://github.com/specula-org/tlaps-bench)]
+- **[TLAPS-Bench](https://specula-org.github.io/tlaps-bench-website/):** I am building a 956-task benchmark across 71 TLA+ specifications for evaluating frontier LLMs on mechanically verified proof completion and generation. I work across evaluator contracts, canonical replay, anti-cheating checks, TLAPM verification, reproducible runners, and behavioral analysis. On a matched 293-task slice, GPT-5.6 Sol reached 99.0% task pass with iterative verifier feedback versus 18.8% single-turn. [[code](https://github.com/specula-org/tlaps-bench)]
 
 - **[SREGym](https://www.sregym.com/):** I am building a live benchmark with 90 realistic SRE problems and 3,623 fault-target pairs for evaluating agents on real cloud and Kubernetes failures. My work includes reproducible incidents, state-based recovery oracles, independent agent and judge endpoints, and a nine-question LLM-as-a-Judge rubric validated against experts with Cohen's kappa of 0.90. [[code](https://github.com/SREGym/SREGym)]
 
