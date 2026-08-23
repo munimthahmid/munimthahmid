@@ -11,7 +11,7 @@
   <a href="https://munimthahmid.github.io/files/Munim_Thahmid_Resume.pdf">Resume</a>
 </p>
 
-I am a research intern at the **University of Illinois Urbana-Champaign** and a recent Computer Science and Engineering graduate from **BUET** with a CGPA of **3.46/4.00**.
+I am a research intern at the **University of Illinois Urbana-Champaign** and a recent Computer Science and Engineering graduate from **BUET**.
 
 My research focuses on making software systems more trustworthy as AI-generated code becomes increasingly common. I want to use formal specifications, theorem provers, and model checkers both to verify AI-generated software and to give LLMs machine-checkable feedback while they reason. My long-term goal is to improve their ability to produce correct specifications, proofs, and safe, verifiable code from the beginning.
 
